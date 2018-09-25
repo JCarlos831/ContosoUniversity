@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{23A86C67-AB9D-4E7B-9170-49C4CB2A919B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoUniversity/appsettings.json">
+    <Files>
+      <File FileName="ContosoUniversity/Controllers/StudentsController.cs" Line="21" Column="53" />
+      <File FileName="ContosoUniversity/Views/Students/Index.cshtml" Line="45" Column="9" />
+      <File FileName="ContosoUniversity/Startup.cs" Line="30" Column="105" />
+      <File FileName="ContosoUniversity/appsettings.json" Line="11" Column="2" />
+      <File FileName="ContosoUniversity/Program.cs" Line="34" Column="14" />
+      <File FileName="ContosoUniversity/bundleconfig.json" Line="1" Column="1" />
+      <File FileName="ContosoUniversity/bower.json" Line="1" Column="1" />
+      <File FileName="ContosoUniversity/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
